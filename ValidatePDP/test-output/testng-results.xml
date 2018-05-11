@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="201665" started-at="2018-05-11T10:13:07Z" finished-at="2018-05-11T10:16:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="201665" started-at="2018-05-11T10:13:07Z" finished-at="2018-05-11T10:16:29Z">
+      <class name="com.accenture.goep.ValidatePDP.ProductValidationWithMethods">
+        <test-method status="PASS" signature="readExcel()[pri:0, instance:com.accenture.goep.ValidatePDP.ProductValidationWithMethods@64bfbc86]" name="readExcel" is-config="true" duration-ms="1561" started-at="2018-05-11T15:43:07Z" finished-at="2018-05-11T15:43:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readExcel -->
+        <test-method status="PASS" signature="start()[pri:0, instance:com.accenture.goep.ValidatePDP.ProductValidationWithMethods@64bfbc86]" name="start" duration-ms="195649" started-at="2018-05-11T15:43:09Z" finished-at="2018-05-11T15:46:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="printResults()[pri:0, instance:com.accenture.goep.ValidatePDP.ProductValidationWithMethods@64bfbc86]" name="printResults" is-config="true" duration-ms="4135" started-at="2018-05-11T15:46:25Z" finished-at="2018-05-11T15:46:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printResults -->
+      </class> <!-- com.accenture.goep.ValidatePDP.ProductValidationWithMethods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
